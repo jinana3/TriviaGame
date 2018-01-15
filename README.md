@@ -1,2 +1,2 @@
 # TriviaGame
-Bootcampe Homework 5
+Bootcamp Homework 5
